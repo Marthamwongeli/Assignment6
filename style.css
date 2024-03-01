@@ -1,0 +1,131 @@
+.topnav{
+    color: antiquewhite;
+    background-color: black;
+    display:flex;
+    gap:80px;
+    padding:25px;
+    width: 90%;
+}
+#banner{
+    position: relative;
+    width: 90%;
+    margin-top:4% ;
+    margin-right: 4%;
+    height: 60%;
+    border-radius: 50px;
+    margin-left: 4%;
+}
+#text-block{
+  position: absolute;
+  bottom: 80px;
+  left: 20px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  
+}
+#content1{
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5%;
+    display: flex;
+    zoom: 120%;
+    display: block;
+    border: 1px solid;
+
+}
+#content2{
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5%;
+    display: flex;
+    display: block;
+    
+}
+button{
+    text-align: center;
+    
+}
+#product{
+    text-align: center;
+    border: 2px solid;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    border-radius: 4%;
+}
+#popular{
+    text-align: center;
+    border: 2px solid;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    border-radius: 4%;
+}
+#body{
+    border-radius: 5%;
+}
+#last{
+    position: relative;
+    width: 90%;
+    margin-top:4% ;
+    margin-right: 9%;
+    width: 70%;
+    text-align: center;
+    margin-left: 9%;
+    margin-right: 20%;
+    
+
+    
+}
+#text-block2{
+    position: absolute;
+    bottom: 80px;
+    left: 20px;
+    color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+#backpage{
+    display: flex;
+    gap:60px;
+    border: 1px;
+    background-color:black;
+    color: antiquewhite;
+    height: 250px;
+    padding:35px ;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+#follow{
+    display: block;
+    zoom: 40%;
+    width: 5%;
+    height: 150px;
+    text-overflow: clip;
+    font-size:17px ;
+}
+#copyright{
+    display:flex;
+    gap: 50px;
+    background-color: black;
+    color: antiquewhite;
+
+}
+#icons{
+    display: flex;
+    gap: 50px;
+    float: inline-end;
+}
+
+
+
+
